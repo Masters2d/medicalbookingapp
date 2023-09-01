@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1009997611456-85gh1jo5e4htlck23j1ro5ji63v6c3lg.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1009997611456-85gh1jo5e4htlck23j1ro5ji63v6c3lg</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1009997611456-m72743jucpebdge46u9ce065val55jfj.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAnxuhVk-feD1V-h3W2std18tpRchSaxYM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1009997611456</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.medicalbookingapp</string>
+	<key>PROJECT_ID</key>
+	<string>medical-booking-app-95620</string>
+	<key>STORAGE_BUCKET</key>
+	<string>medical-booking-app-95620.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1009997611456:ios:b031575664a2d7e4994825</string>
+</dict>
+</plist>
